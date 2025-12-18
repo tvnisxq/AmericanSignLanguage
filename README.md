@@ -7,6 +7,9 @@ This ASL Detector is a cutting-edge AI-powered application that uses computer vi
 </p>
 
 
+# Demo Video
+[![Demo Video]("assets/demo.mp4")]
+
 # Table of Contents
 
 1. [Features](#Features)
