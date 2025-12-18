@@ -8,7 +8,11 @@ This ASL Detector is a cutting-edge AI-powered application that uses computer vi
 
 
 # Demo Video
-[demo.mp4](assets/demo.mp4)
+
+<video width="800" controls>
+  <source src="assets/demo.mp4" type="video/mp4">
+  Your browser does not support the video tag. Please download and play the video: [demo.mp4](assets/demo.mp4)
+</video>
 
 
 
